@@ -69,3 +69,26 @@ const objeto: Persona = {
 
 objeto.nombre = 'Hola Mundo'
 // objeto.id = 42 // Da error, la propiedad es de solo lectura
+
+/*
+tipos de JS
+number
+string
+boolean
+null
+undefined
+object - Arreglo
+function
+
+Tipos TS
+any - No usar
+unknown
+never
+arrays
+tuplas
+Enums
+
+Tipos Inferidos
+
+*/
+
